@@ -1,0 +1,36 @@
+disabled: []
+enabled:
+  - id: alfish.godot-files
+    uuid: 4d84b79c-95ff-4639-99b8-bc24f4d9db9f
+  - id: danielpinto8zz6.c-cpp-project-generator
+    uuid: 3b159107-8640-4206-9350-3fc6e6f277da
+  - id: dbaeumer.vscode-eslint
+    uuid: 583b2b34-2c1e-4634-8c0b-0b82e283ea3a
+  - id: eamodio.gitlens
+    uuid: 4de763bd-505d-4978-9575-2b7696ecf94e
+  - id: formulahendry.code-runner
+    uuid: a6a0c5b2-d078-4bf5-a9ee-4e37054414b3
+  - id: golang.go
+    uuid: d6f6cfea-4b6f-41f4-b571-6ad2ab7918da
+  - id: ms-dotnettools.vscode-dotnet-runtime
+    uuid: 1aab81a1-b3d9-4aef-976b-577d5d90fe3f
+  - id: ms-python.python
+    uuid: f1f59ae4-9318-4f3c-a9b5-81b2eaa5f8a5
+  - id: muhammad-sammy.csharp
+    uuid: 57b4ceec-c35a-4a96-ab38-23c6338df406
+  - id: neikeq.godot-csharp-vscode
+    uuid: c72f4c51-2c77-4592-ba2d-365e9c474014
+  - id: redhat.java
+    uuid: 198a707e-28af-4e84-8610-6e2f628dd12d
+  - id: redhat.vscode-xml
+    uuid: 6703768d-d42f-474e-9f6e-5f288d53f6e8
+  - id: redhat.vscode-yaml
+    uuid: 2061917f-f76a-458a-8da9-f162de22b97e
+  - id: rust-lang.rust-analyzer
+    uuid: 06574cb4-e5dc-4631-8174-a543a4533621
+  - id: sainnhe.gruvbox-material
+    uuid: d9437be1-e21c-4e9a-9548-e63650468296
+  - id: sumneko.lua
+    uuid: 3a15b5a7-be12-47e3-8445-88ee3eabc8b2
+  - id: zokugun.cron-tasks
+    uuid: eb05256f-c7aa-4554-95c6-1bb8e30e0cea

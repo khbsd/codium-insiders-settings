@@ -1,0 +1,15 @@
+{
+    "workbench.colorTheme": "Gruvbox Material Dark",
+    "gruvboxMaterial.darkContrast": "hard",
+    "gruvboxMaterial.diagnosticTextBackgroundOpacity": "25%",
+    "gruvboxMaterial.lightContrast": "hard",
+    "syncSettings.crons": {},
+    "syncSettings.resources": [
+        "extensions",
+        "keybindings",
+        "settings",
+        "snippets",
+        "uiState"
+    ],
+    "redhat.telemetry.enabled": false
+}
