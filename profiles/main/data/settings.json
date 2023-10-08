@@ -11,5 +11,17 @@
         "snippets",
         "uiState"
     ],
-    "redhat.telemetry.enabled": false
+    "redhat.telemetry.enabled": false,
+    "Lua.workspace.library": [
+        "W:\\Libraries\\Documents\\vscodium\\external_libraries\\Osi.Events.Lua",
+        "W:\\Libraries\\Documents\\vscodium\\external_libraries\\Osi.Lua"
+    ],
+    "files.associations": {
+        "*.khn": "lua"
+    },
+    "syncSettings.ignoredExtensions": [
+
+    ],
+    "Lua.workspace.preloadFileSize": 2048,
+    "gruvboxMaterial.darkWorkbench": "flat"
 }
