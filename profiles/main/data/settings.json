@@ -1,5 +1,5 @@
 {
-    "workbench.colorTheme": "Gruvbox Material Dark",
+    "workbench.colorTheme": "Nebula Oni (Hourglass)",
     "gruvboxMaterial.darkContrast": "hard",
     "gruvboxMaterial.diagnosticTextBackgroundOpacity": "25%",
     "gruvboxMaterial.lightContrast": "hard",
@@ -17,11 +17,54 @@
         "W:\\Libraries\\Documents\\vscodium\\external_libraries\\Osi.Lua"
     ],
     "files.associations": {
-        "*.khn": "lua"
+        "*.khn": "lua",
+        "*.loca": "xml"
     },
     "syncSettings.ignoredExtensions": [
 
     ],
     "Lua.workspace.preloadFileSize": 2048,
-    "gruvboxMaterial.darkWorkbench": "flat"
+    "gruvboxMaterial.darkWorkbench": "flat",
+    "editor.autoClosingQuotes": "always",
+    "editor.autoClosingOvertype": "always",
+    "editor.autoSurround": "quotes",
+    "xml.server.vmargs": "-Xmx128M",
+    "xml.server.binary.args": "-Xmx3g",
+    "editor.largeFileOptimizations": false,
+    "security.workspace.trust.untrustedFiles": "open",
+    "xml.symbols.maxItemsComputed": 10000,
+    "Lua.workspace.userThirdParty": [
+        "W:\\Libraries\\Documents\\vscodium\\external_libraries\\Osi.Events.Lua",
+        "W:\\Libraries\\Documents\\vscodium\\external_libraries\\Osi.Lua"
+    ],
+    "nebulaOni.update.restoreConfiguration": {
+        "themeSettings": {
+            "background": "Dark Grey",
+            "main": "Aqua",
+            "highlight": "Ultra Violet",
+            "focusBorder": "ON",
+            "fontStyle": "Italic",
+            "syntaxBrightness": "Dimmed",
+            "comments": "Dark Violet",
+            "favorite": "OFF"
+        },
+        "favoriteSettings": {
+            "background": "Glacial Blue",
+            "main": "Sakura",
+            "highlight": "Ultra Violet",
+            "focusBorder": "ON",
+            "fontStyle": "Italic",
+            "syntaxBrightness": "Dimmed",
+            "comments": "Dark Magenta",
+            "favorite": "Nebula Oni (Pegasus)"
+        }
+    },
+    "nebulaOni.applyChanges": false,
+    "nebulaOni.editor.syntaxBrightness": "Dimmed",
+    "nebulaOni.add.favorite": "OFF",
+    "nebulaOni.color.backgroundColor": "Dark Grey",
+    "nebulaOni.color.mainColor": "Aqua",
+    "chat.editor.wordWrap": "on",
+    "editor.wordWrap": "wordWrapColumn",
+    "editor.wordWrapColumn": 120
 }
