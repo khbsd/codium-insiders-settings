@@ -66,5 +66,6 @@
     "nebulaOni.color.mainColor": "Aqua",
     "chat.editor.wordWrap": "on",
     "editor.wordWrap": "wordWrapColumn",
-    "editor.wordWrapColumn": 120
+    "editor.wordWrapColumn": 120,
+    "window.titleBarStyle": "custom"
 }

@@ -7,7 +7,7 @@ enabled:
   - id: BriteSnow.vscode-toggle-quotes
     uuid: 8d088af2-ecd1-4b8f-93e9-322125c47b3c
   - id: chromosome16.bg3-text-support
-    uuid: null
+    uuid: a7c27bb7-c7fa-493c-a851-fd115cdf17f9
   - id: danielpinto8zz6.c-cpp-project-generator
     uuid: 3b159107-8640-4206-9350-3fc6e6f277da
   - id: dbaeumer.vscode-eslint
