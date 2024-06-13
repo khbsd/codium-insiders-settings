@@ -3,5 +3,15 @@
     {
         "key": "ctrl+shift+f1",
         "command": "syncSettings.upload"
+    },
+    {
+        "key": "ctrl+shift+d",
+        "command": "workbench.action.debug.start",
+        "when": "debuggersAvailable && debugState == 'inactive'"
+    },
+    {
+        "key": "f5",
+        "command": "-workbench.action.debug.start",
+        "when": "debuggersAvailable && debugState == 'inactive'"
     }
 ]

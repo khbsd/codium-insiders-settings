@@ -1,35 +1,63 @@
-disabled: []
+disabled:
+  - id: ms-vscode.vscode-typescript-tslint-plugin
+    uuid: 90a37ca1-92a2-488a-b196-7a8c0b0127ea
 enabled:
+  - id: adpyke.codesnap
+    uuid: 8c1fc960-44b1-45e8-89b5-85f982fdaf27
   - id: alfish.godot-files
     uuid: 4d84b79c-95ff-4639-99b8-bc24f4d9db9f
   - id: anseki.vscode-color
     uuid: 37d7747f-e652-4eac-83de-f2939f7e2121
   - id: BriteSnow.vscode-toggle-quotes
     uuid: 8d088af2-ecd1-4b8f-93e9-322125c47b3c
+  - id: Catppuccin.catppuccin-vsc
+    uuid: 69264e4d-cd3b-468a-8f2b-e69673c7d864
+  - id: Catppuccin.catppuccin-vsc-icons
+    uuid: 625b9abd-dfac-405b-bf34-e65f46e2f22f
+  - id: christian-kohler.npm-intellisense
+    uuid: dff6b801-247e-40e9-82e8-8c9b1d19d1b8
   - id: chromosome16.bg3-text-support
     uuid: a7c27bb7-c7fa-493c-a851-fd115cdf17f9
   - id: danielpinto8zz6.c-cpp-project-generator
     uuid: 3b159107-8640-4206-9350-3fc6e6f277da
   - id: dbaeumer.vscode-eslint
     uuid: 583b2b34-2c1e-4634-8c0b-0b82e283ea3a
+  - id: dcasella.monokai-plusplus
+    uuid: 69b16d69-4e4e-4669-934c-daa646794c37
+  - id: dracula-theme.theme-dracula
+    uuid: 4e44877c-1c8d-4f9c-ba86-1372d0fbeeb1
   - id: eamodio.gitlens
     uuid: 4de763bd-505d-4978-9575-2b7696ecf94e
+  - id: esbenp.prettier-vscode
+    uuid: 96fa4707-6983-4489-b7c5-d5ffdfdcce90
   - id: formulahendry.code-runner
     uuid: a6a0c5b2-d078-4bf5-a9ee-4e37054414b3
   - id: garrit.p5canvas
     uuid: 2dde5653-a38a-4d07-8029-42ac8b769063
+  - id: geequlim.godot-tools
+    uuid: bbcbb8de-2baf-455f-a458-d5a6f084cebb
+  - id: ghostboats.bg3-mod-helper
+    uuid: f46b90d7-facf-4c6f-9c15-717d0bd46a98
   - id: golang.go
     uuid: d6f6cfea-4b6f-41f4-b571-6ad2ab7918da
+  - id: jdinhlife.gruvbox
+    uuid: c6d564c4-ca8c-45ba-abf6-c85f2d1468d8
   - id: ms-dotnettools.vscode-dotnet-runtime
     uuid: 1aab81a1-b3d9-4aef-976b-577d5d90fe3f
+  - id: ms-pyright.pyright
+    uuid: 593fe6a5-513e-4cb3-abfb-5b9f5fe39802
   - id: ms-python.python
     uuid: f1f59ae4-9318-4f3c-a9b5-81b2eaa5f8a5
+  - id: ms-vscode.live-server
+    uuid: 4eae7368-ec63-429d-8449-57a7df5e2117
   - id: ms-vscode.vscode-typescript-next
     uuid: 15305aca-2588-4ca0-8147-ab2c64730b82
   - id: muhammad-sammy.csharp
     uuid: 57b4ceec-c35a-4a96-ab38-23c6338df406
   - id: neikeq.godot-csharp-vscode
     uuid: c72f4c51-2c77-4592-ba2d-365e9c474014
+  - id: pixl-garden.BongoCat
+    uuid: a1453f60-2804-4cd7-a0d6-cc4299d87cac
   - id: psudo-dev.nebula-oni-theme
     uuid: 340fc8a3-2a3d-489f-8030-f50154a6d004
   - id: redhat.java
@@ -40,9 +68,11 @@ enabled:
     uuid: 2061917f-f76a-458a-8da9-f162de22b97e
   - id: rust-lang.rust-analyzer
     uuid: 06574cb4-e5dc-4631-8174-a543a4533621
-  - id: sainnhe.gruvbox-material
-    uuid: d9437be1-e21c-4e9a-9548-e63650468296
   - id: sumneko.lua
     uuid: 3a15b5a7-be12-47e3-8445-88ee3eabc8b2
+  - id: vscode-icons-team.vscode-icons
+    uuid: 9ccc1dd7-7ec4-4a46-bd4f-7d7b8b9d322a
+  - id: wayou.vscode-todo-highlight
+    uuid: 97a08c5f-6667-4242-a5c5-045dfb6bd4b9
   - id: zokugun.cron-tasks
     uuid: eb05256f-c7aa-4554-95c6-1bb8e30e0cea

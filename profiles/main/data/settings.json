@@ -1,5 +1,4 @@
 {
-    "workbench.colorTheme": "Nebula Oni (Hourglass)",
     "gruvboxMaterial.darkContrast": "hard",
     "gruvboxMaterial.diagnosticTextBackgroundOpacity": "25%",
     "gruvboxMaterial.lightContrast": "hard",
@@ -10,15 +9,15 @@
         "settings",
         "snippets",
         "uiState"
-    ],
+    ],  
     "redhat.telemetry.enabled": false,
     "Lua.workspace.library": [
-        "W:\\Libraries\\Documents\\vscodium\\external_libraries\\Osi.Events.Lua",
-        "W:\\Libraries\\Documents\\vscodium\\external_libraries\\Osi.Lua"
+        "W:\\Libraries\\Documents\\vscodium\\external_libraries\\"
     ],
     "files.associations": {
         "*.khn": "lua",
-        "*.loca": "xml"
+        "*.loca": "xml",
+        "*.lsx": "xml"
     },
     "syncSettings.ignoredExtensions": [
 
@@ -28,11 +27,11 @@
     "editor.autoClosingQuotes": "always",
     "editor.autoClosingOvertype": "always",
     "editor.autoSurround": "quotes",
-    "xml.server.vmargs": "-Xmx128M",
-    "xml.server.binary.args": "-Xmx3g",
+    "xml.server.vmargs": "-Xmx1024M",
+    "xml.server.binary.args": "-Xmx5g",
     "editor.largeFileOptimizations": false,
     "security.workspace.trust.untrustedFiles": "open",
-    "xml.symbols.maxItemsComputed": 10000,
+    "xml.symbols.maxItemsComputed": 1000000,
     "Lua.workspace.userThirdParty": [
         "W:\\Libraries\\Documents\\vscodium\\external_libraries\\Osi.Events.Lua",
         "W:\\Libraries\\Documents\\vscodium\\external_libraries\\Osi.Lua"
@@ -49,14 +48,14 @@
             "favorite": "OFF"
         },
         "favoriteSettings": {
-            "background": "Glacial Blue",
-            "main": "Sakura",
+            "background": "Dark Grey",
+            "main": "Aqua",
             "highlight": "Ultra Violet",
             "focusBorder": "ON",
             "fontStyle": "Italic",
             "syntaxBrightness": "Dimmed",
-            "comments": "Dark Magenta",
-            "favorite": "Nebula Oni (Pegasus)"
+            "comments": "Dark Violet",
+            "favorite": "Nebula Oni (Cerberus)"
         }
     },
     "nebulaOni.applyChanges": false,
@@ -65,7 +64,114 @@
     "nebulaOni.color.backgroundColor": "Dark Grey",
     "nebulaOni.color.mainColor": "Aqua",
     "chat.editor.wordWrap": "on",
-    "editor.wordWrap": "wordWrapColumn",
+    "editor.wordWrap": "bounded",
     "editor.wordWrapColumn": 120,
-    "window.titleBarStyle": "custom"
+    "git.autofetch": true,
+    "git.enableSmartCommit": true,
+    "git.openRepositoryInParentFolders": "always",
+    "git.confirmSync": false,
+    "gitlens.views.commitDetails.files.layout": "list",
+    "gitlens.defaultGravatarsStyle": "retro",
+    "gitlens.codeLens.authors.enabled": false,
+    "gitlens.codeLens.recentChange.enabled": false,
+    "gitlens.codeLens.enabled": false,
+    "gitlens.showWhatsNewAfterUpgrades": false,
+    "gitlens.showWelcomeOnInstall": false,
+    "git.path": "",
+    "syncSettings.additionalFiles": [
+    
+        
+    ],
+    "files.autoSave": "afterDelay",
+    "editor.wrappingStrategy": "advanced",
+    "godot_tools.editor_path": "W:\\Libraries\\Documents\\Godot_v4.2.1-stable_mono_win64\\Godot_v4.2.1-stable_mono_win64\\Godot_v4.2.1-stable_mono_win64.exe",
+    "godotFiles.clarifyArrays.color": true,
+    "syncSettings.hooks.preUpload": "",
+    "bg3ModHelper.modWorkspacePath": "W:\\Libraries\\Documents\\Baldur's Gate 3 Mods\\khbsd_mods\\bg3lore\\",
+    "bg3ModHelper.maxCacheSize": 1000,
+    "editor.fontFamily": "Fira Code",
+    "editor.fontLigatures": true,
+    "workbench.preferredLightColorTheme": "Bearded Theme Vivid Black",
+    "workbench.colorTheme": "Dracula Soft",
+    "accessibility.signals.lineHasError": {
+        "sound": "off"
+    },
+    "accessibility.signals.lineHasFoldedArea": {
+        "sound": "off"
+    },
+    "accessibility.signals.lineHasBreakpoint": {
+        "sound": "off"
+    },
+    "accessibility.signals.lineHasInlineSuggestion": {
+        "sound": "off"
+    },
+    "accessibility.signals.terminalQuickFix": {
+        "sound": "off"
+    },
+    "accessibility.signals.onDebugBreak": {
+        "sound": "off"
+    },
+    "accessibility.signals.noInlayHints": {
+        "sound": "off"
+    },
+    "accessibility.signals.taskCompleted": {
+        "sound": "off"
+    },
+    "accessibility.signals.taskFailed": {
+        "sound": "off"
+    },
+    "accessibility.signals.terminalCommandFailed": {
+        "sound": "off"
+    },
+    "accessibility.signals.notebookCellCompleted": {
+        "sound": "off"
+    },
+    "accessibility.signals.notebookCellFailed": {
+        "sound": "off"
+    },
+    "accessibility.signals.diffLineInserted": {
+        "sound": "off"
+    },
+    "accessibility.signals.diffLineDeleted": {
+        "sound": "off"
+    },
+    "accessibility.signals.diffLineModified": {
+        "sound": "off"
+    },
+    "godotTools.editorPath.godot3": "W:\\Libraries\\Documents\\Godot_v4.2.1-stable_mono_win64\\Godot_v4.2.1-stable_mono_win64\\Godot_v4.2.1-stable_mono_win64.exe",
+    "godotTools.editorPath.godot4": "W:\\Libraries\\Documents\\Godot_v4.2.1-stable_mono_win64\\Godot_v4.2.1-stable_mono_win64\\Godot_v4.2.1-stable_mono_win64.exe",
+    "bg3ModHelper.divinePath": "W:\\Libraries\\Documents\\Baldur's Gate 3 Mods\\LSLIB\\Tools",
+    "bg3ModHelper.modDestPath": "C:\\Users\\atoka\\AppData\\Local\\Larian Studios\\Baldur's Gate 3\\Mods",
+    "bg3ModHelper.launchContinueGame": true,
+    "prettier.printWidth": 120,
+    "java.format.settings.url": "c:\\Users\\atoka\\.vscodium-insiders\\extensions\\redhat.java\\eclipse-formatter.xml",
+    "[json]": {
+        "editor.defaultFormatter": "vscode.json-language-features"
+    },
+    "workbench.preferredDarkColorTheme": "Gruvbox Material Dark",
+    "workbench.iconTheme": "catppuccin-mocha",
+    "workbench.productIconTheme": "bongocat",
+    "telemetry.telemetryLevel": "error",
+    "[javascript]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "javascript.updateImportsOnFileMove.enabled": "always",
+    "workbench.editorAssociations": {
+        "*.loca": "default"
+    },
+    "git.ignoreRebaseWarning": true,
+    "bg3ModHelper.lslibPath": "W:\\Libraries\\Documents\\Baldur's Gate 3 Mods\\LSLIB\\Tools",
+    "window.dialogStyle": "custom",
+    "bg3ModHelper.gameInstallLocation": "W:\\SteamLibrary\\steamapps\\common\\Baldurs Gate 3",
+    "extensions.autoCheckUpdates": false,
+    "extensions.autoUpdate": "onlySelectedExtensions",
+    "vsicons.dontShowNewVersionMessage": true,
+    "bg3ModHelper.hover.maxFiles": 1000,
+    "bg3ModHelper.hover.enabled": false,
+    "bg3ModHelper.paths.lslibPath": "W:\\Libraries\\Documents\\Baldur's Gate 3 Mods\\LSLIB\\Tools",
+    "bg3ModHelper.paths.modDestPath": "C:\\Users\\atoka\\AppData\\Local\\Larian Studios\\Baldur's Gate 3\\Mods",
+    "bg3ModHelper.general.gameInstallLocation": "W:\\SteamLibrary\\steamapps\\common\\Baldurs Gate 3\\Data",
+    "accessibility.signals.progress": {
+        "sound": "off"
+    }
 }
