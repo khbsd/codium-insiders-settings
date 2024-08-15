@@ -141,7 +141,7 @@
     "godotTools.editorPath.godot3": "W:\\Libraries\\Documents\\Godot_v4.2.1-stable_mono_win64\\Godot_v4.2.1-stable_mono_win64\\Godot_v4.2.1-stable_mono_win64.exe",
     "godotTools.editorPath.godot4": "W:\\Libraries\\Documents\\Godot_v4.2.1-stable_mono_win64\\Godot_v4.2.1-stable_mono_win64\\Godot_v4.2.1-stable_mono_win64.exe",
     "bg3ModHelper.divinePath": "W:\\Libraries\\Documents\\Baldur's Gate 3 Mods\\LSLIB\\Tools",
-    "bg3ModHelper.modDestPath": "C:\\Users\\atoka\\AppData\\Local\\Larian Studios\\Baldur's Gate 3\\Mods",
+    "bg3ModHelper.modDestPath": "/home/ken/Documents/bg3_mods/khbsd_mods/dopainmaine/dopainmaine/.paks",
     "bg3ModHelper.launchContinueGame": true,
     "prettier.printWidth": 120,
     "java.format.settings.url": "c:\\Users\\atoka\\.vscodium-insiders\\extensions\\redhat.java\\eclipse-formatter.xml",
@@ -160,11 +160,10 @@
         "*.loca": "default"
     },
     "git.ignoreRebaseWarning": true,
-    "bg3ModHelper.lslibPath": "W:\\Libraries\\Documents\\Baldur's Gate 3 Mods\\LSLIB\\Tools",
     "window.dialogStyle": "custom",
     "bg3ModHelper.gameInstallLocation": "W:\\SteamLibrary\\steamapps\\common\\Baldurs Gate 3",
     "extensions.autoCheckUpdates": false,
-    "extensions.autoUpdate": "onlySelectedExtensions",
+    "extensions.autoUpdate": false,
     "vsicons.dontShowNewVersionMessage": true,
     "bg3ModHelper.hover.maxFiles": 1000,
     "bg3ModHelper.hover.enabled": false,
@@ -173,5 +172,12 @@
     "bg3ModHelper.general.gameInstallLocation": "W:\\SteamLibrary\\steamapps\\common\\Baldurs Gate 3\\Data",
     "accessibility.signals.progress": {
         "sound": "off"
+    },
+    "window.titleBarStyle": "custom",
+    "bg3ModHelper.lslibPath": "/home/kaya/Documents/bg3_mods/LSLIB/Tools",
+
+    "workbench.colorCustomizations" : {
+        "sideBar.background": "#1a1a1aee", // transparent
+        "editor.background": "#10141c77"
     }
 }

@@ -5,9 +5,11 @@ enabled:
   - id: adpyke.codesnap
     uuid: 8c1fc960-44b1-45e8-89b5-85f982fdaf27
   - id: alfish.godot-files
-    uuid: 4d84b79c-95ff-4639-99b8-bc24f4d9db9f
+    uuid: 60d25647-71b1-417a-8005-6b22941c0895
   - id: anseki.vscode-color
     uuid: 37d7747f-e652-4eac-83de-f2939f7e2121
+  - id: ghostboats.bg3-mod-helper
+    uuid: f46b90d7-facf-4c6f-9c15-717d0bd46a98
   - id: BriteSnow.vscode-toggle-quotes
     uuid: 8d088af2-ecd1-4b8f-93e9-322125c47b3c
   - id: Catppuccin.catppuccin-vsc
@@ -26,6 +28,8 @@ enabled:
     uuid: 69b16d69-4e4e-4669-934c-daa646794c37
   - id: dracula-theme.theme-dracula
     uuid: 4e44877c-1c8d-4f9c-ba86-1372d0fbeeb1
+  - id: drcika.apc-extension
+    uuid: c445982f-a615-472b-a90e-0a9edd88b8e8
   - id: eamodio.gitlens
     uuid: 4de763bd-505d-4978-9575-2b7696ecf94e
   - id: esbenp.prettier-vscode
@@ -36,16 +40,22 @@ enabled:
     uuid: 2dde5653-a38a-4d07-8029-42ac8b769063
   - id: geequlim.godot-tools
     uuid: bbcbb8de-2baf-455f-a458-d5a6f084cebb
-  - id: ghostboats.bg3-mod-helper
-    uuid: f46b90d7-facf-4c6f-9c15-717d0bd46a98
   - id: golang.go
     uuid: d6f6cfea-4b6f-41f4-b571-6ad2ab7918da
   - id: jdinhlife.gruvbox
     uuid: c6d564c4-ca8c-45ba-abf6-c85f2d1468d8
+  - id: llvm-vs-code-extensions.vscode-clangd
+    uuid: 103154cb-b81d-4e1b-8281-c5f4fa563d37
+  - id: ms-dotnettools.csdevkit
+    uuid: null
+  - id: ms-dotnettools.csharp
+    uuid: null
   - id: ms-dotnettools.vscode-dotnet-runtime
     uuid: 1aab81a1-b3d9-4aef-976b-577d5d90fe3f
   - id: ms-pyright.pyright
     uuid: 593fe6a5-513e-4cb3-abfb-5b9f5fe39802
+  - id: ms-python.debugpy
+    uuid: 4bd5d2c9-9d65-401a-b0b2-7498d9f17615
   - id: ms-python.python
     uuid: f1f59ae4-9318-4f3c-a9b5-81b2eaa5f8a5
   - id: ms-vscode.live-server
@@ -75,4 +85,4 @@ enabled:
   - id: wayou.vscode-todo-highlight
     uuid: 97a08c5f-6667-4242-a5c5-045dfb6bd4b9
   - id: zokugun.cron-tasks
-    uuid: eb05256f-c7aa-4554-95c6-1bb8e30e0cea
+    uuid: b7bbbbd5-7a39-4312-87aa-ef6a41de67fb
