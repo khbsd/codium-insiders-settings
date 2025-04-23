@@ -128,5 +128,18 @@
         "editor.background": "#10141c77"
     },
     "files.autoSaveDelay": 200,
-    "workbench.startupEditor": "none"
+    "workbench.startupEditor": "none",
+    "gitlens.views.scm.grouped.views": {
+        "commits": true,
+        "branches": false,
+        "remotes": false,
+        "stashes": true,
+        "tags": true,
+        "worktrees": true,
+        "contributors": true,
+        "fileHistory": false,
+        "repositories": true,
+        "searchAndCompare": false,
+        "launchpad": false
+    }
 }

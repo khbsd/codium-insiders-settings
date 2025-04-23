@@ -16,6 +16,8 @@ enabled:
     uuid: 583b2b34-2c1e-4634-8c0b-0b82e283ea3a
   - id: dracula-theme.theme-dracula
     uuid: 4e44877c-1c8d-4f9c-ba86-1372d0fbeeb1
+  - id: eamodio.gitlens
+    uuid: 4de763bd-505d-4978-9575-2b7696ecf94e
   - id: esbenp.prettier-vscode
     uuid: 96fa4707-6983-4489-b7c5-d5ffdfdcce90
   - id: formulahendry.code-runner
@@ -40,6 +42,8 @@ enabled:
     uuid: 4eae7368-ec63-429d-8449-57a7df5e2117
   - id: ms-vscode.vscode-typescript-next
     uuid: 15305aca-2588-4ca0-8147-ab2c64730b82
+  - id: oderwat.indent-rainbow
+    uuid: eaa2127d-cb69-4ab9-8505-a60c9ee5f28b
   - id: pixl-garden.BongoCat
     uuid: a1453f60-2804-4cd7-a0d6-cc4299d87cac
   - id: quick-lint.quick-lint-js
