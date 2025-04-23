@@ -1,8 +1,5 @@
-ignoredExtensions: []
 resources:
   - extensions
   - keybindings
   - settings
   - snippets
-  - uiState
-additionalFiles: []
